@@ -14,8 +14,10 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "concurrently": "^3.5.1",
     "express": "^4.16.2",
-    "nodemon": "^1.14.7"
+    "nodemon": "^1.14.7",
+    "react-bootstrap": "^0.32.4"
   }
 }
